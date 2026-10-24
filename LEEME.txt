@@ -1,0 +1,7 @@
+REGIS - ENFOQUE DE OBJETIVOS COMERCIALES
+
+Para ejecutar la aplicación, mantén todos los CSV y app.py en esta carpeta.
+Instala dependencias: pip install -r requirements.txt
+Inicia: streamlit run app.py
+
+Estructura: 7 secciones numeradas organizadas bajo la metodología CRISP-DM.

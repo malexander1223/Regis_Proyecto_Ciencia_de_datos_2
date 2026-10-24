@@ -1,0 +1,25 @@
+﻿Cluster,Opción,Selecciones (n),Respuestas válidas (n),Preferencia (%)
+TOTAL REAL,Alerta de fecha de vencimiento,63,378,16.666666666666664
+TOTAL REAL,Control de entrada y salida,191,378,50.52910052910053
+TOTAL REAL,Control de pagos QR (pasarela de pagos),130,378,34.39153439153439
+TOTAL REAL,Control de stock bajo,151,378,39.94708994708995
+TOTAL REAL,Registro de ventas,147,378,38.88888888888889
+TOTAL REAL,Reportes de ventas,158,378,41.7989417989418
+0,Alerta de fecha de vencimiento,23,168,13.690476190476192
+0,Control de entrada y salida,86,168,51.19047619047619
+0,Control de pagos QR (pasarela de pagos),55,168,32.73809523809524
+0,Control de stock bajo,59,168,35.11904761904761
+0,Registro de ventas,73,168,43.452380952380956
+0,Reportes de ventas,61,168,36.30952380952381
+1,Alerta de fecha de vencimiento,20,116,17.24137931034483
+1,Control de entrada y salida,59,116,50.86206896551724
+1,Control de pagos QR (pasarela de pagos),43,116,37.06896551724138
+1,Control de stock bajo,41,116,35.3448275862069
+1,Registro de ventas,48,116,41.37931034482759
+1,Reportes de ventas,51,116,43.96551724137931
+2,Alerta de fecha de vencimiento,20,94,21.27659574468085
+2,Control de entrada y salida,46,94,48.93617021276596
+2,Control de pagos QR (pasarela de pagos),32,94,34.04255319148936
+2,Control de stock bajo,51,94,54.25531914893617
+2,Registro de ventas,26,94,27.659574468085108
+2,Reportes de ventas,46,94,48.93617021276596
